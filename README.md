@@ -67,4 +67,4 @@ Credit card risk was evaluated using various machine learning algoriths on a cre
 
 
 ## Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+A review of the six models indicates that the EasyEnsembleClassifier model yielded the best results with an accuracy of 93% and a precision of 7% when predicting high-risk credit candidates. The sensitivity rate, or recall, was also the highest out of all the models at 92%. As such, this model is recommended for future similar analyses. 
